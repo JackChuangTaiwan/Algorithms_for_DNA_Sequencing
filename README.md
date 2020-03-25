@@ -1,2 +1,2 @@
 # Algorithms_for_DNA_Sequencing
-Coursera Algorithms_for_DNA_Sequencing
+Algorithms_for_DNA_Sequencing
